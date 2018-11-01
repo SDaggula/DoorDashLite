@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+
+    <dimen name="margin_small">6sp</dimen>
+    <dimen name="margin_normal">8sp</dimen>
+    <dimen name="margin_large">10sp</dimen>
+
+    <dimen name="padding_small">6sp</dimen>
+    <dimen name="padding_normal">8sp</dimen>
+    <dimen name="padding_large">10sp</dimen>
+
+    <dimen name="thumbnail_small">75dp</dimen>
+    <dimen name="thumbnail_normal">100dp</dimen>
+    <dimen name="thumbnail_large">125dp</dimen>
+
+    <dimen name="progressbar_min_small">30dp</dimen>
+    <dimen name="progressbar_min_normal">40dp</dimen>
+    <dimen name="progressbar_min_large">50dp</dimen>
+</resources>
